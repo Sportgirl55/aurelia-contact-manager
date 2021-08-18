@@ -12,6 +12,10 @@ a:focus {
     margin: 12px 24px 0 6px;
 }
 
+.navbar-brand {
+  margin: auto;
+}
+
 .no-selection {
   margin: 20px;
 }
